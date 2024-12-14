@@ -60,4 +60,4 @@ In  ```start_scripts/acil_scripts```, you can find more launch scripts of variou
 ## TODO
 - [x] Release training code of experiments on LP-DiF.
 - [ ] Release training code of experiments on L2P.
-- [ ] Release training code of experiments on L2P.
+- [ ] Release training code of experiments on Dual-Prompt.
